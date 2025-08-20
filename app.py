@@ -113,7 +113,6 @@ LOGIN_TEMPLATE = '''
     <div class="challenge-info" style="margin-top: 30px;">
         <h2>Challenge Instructions</h2>
         <ol>
-            <li>Extract user credentials from the users table</li>
             <li>Login properly with the admin credentials</li>
             <li>Access the secret flag from the admin dashboard</li>
         </ol>
